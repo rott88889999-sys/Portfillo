@@ -1,0 +1,32 @@
+JIVAN WEBSITE - HOW TO CHANGE PHOTOS (KHMER)
+
+វិធីងាយបំផុត៖ មិនចាំបាច់កែ HTML ទៀតទេ។
+
+1) បើក Folder "images"។
+2) ដាក់រូបភាពរបស់អ្នកចូលក្នុង Folder នេះ។
+3) ប្ដូរឈ្មោះរូបភាពឱ្យត្រូវតាមបញ្ជីខាងក្រោម។
+4) បើចង់ប្ដូររូបភាពចាស់ គ្រាន់តែយករូបថ្មីមកដាក់ជំនួស ដោយប្រើឈ្មោះដដែល។
+5) កុំលុប ឬប្ដូរឈ្មោះឯកសារ លុះត្រាតែអ្នកកែឈ្មោះក្នុង HTML ផងដែរ។
+
+Portfolio 1 - The Royal Romance:
+design1-1.jpg, design1-2.jpg, design1-3.jpg
+
+Portfolio 2 - Garden of Dreams:
+design2-1.jpg, design2-2.jpg, design2-3.jpg
+
+Portfolio 3 - Modern Muse:
+design3-1.jpg, design3-2.jpg, design3-3.jpg
+
+Portfolio 4 - Blush & Bloom:
+design4-1.jpg, design4-2.jpg, design4-3.jpg
+
+Portfolio 5 - Golden Hour:
+design5-1.jpg, design5-2.jpg, design5-3.jpg
+
+Portfolio 6 - The White Edit:
+design6-1.jpg, design6-2.jpg, design6-3.jpg
+
+សំខាន់៖ រូបភាព Cover គឺរូបលេខ -1។ រូប -2 និង -3 នឹងបង្ហាញនៅពេលអតិថិជនចុចមើល Gallery។
+រូបភាពត្រូវជា JPG/JPEG ហើយឈ្មោះត្រូវតែត្រូវគ្នាពិតប្រាកដ។
+
+របៀបបើក៖ បើក index.html ក្នុង Browser។ កែរូបភាពរួច ចុច Refresh (Ctrl+F5)។
